@@ -99,21 +99,21 @@
 
 * 2017-NIPS - Active bias: Training more accurate neural networks by emphasizing high variance samples.cited:186 [[Paper]](https://arxiv.org/abs/1704.07433)[[Code]](https://github.com/songhwanjun/ActiveBias)
 
-* 2017-NIPS - Decoupling" when to update" from" how to update". [[Paper]](https://arxiv.org/abs/1706.02613)[[Code]](https://github.com/emalach/UpdateByDisagreement)
+* 2017-NIPS - Decoupling" when to update" from" how to update". cited:249[[Paper]](https://arxiv.org/abs/1706.02613)[[Code]](https://github.com/emalach/UpdateByDisagreement)
 
-* 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)[[Code-Pytorch]](https://github.com/AlfredXiangWu/LightCNN)[[Code-Keras]](https://github.com/AlfredXiangWu/face_verification_experiment)[[Code-Tensorflow]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
+* 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels.cited:798 [[Paper]](https://arxiv.org/abs/1511.02683)[[Code-Pytorch]](https://github.com/AlfredXiangWu/LightCNN)[[Code-Keras]](https://github.com/AlfredXiangWu/face_verification_experiment)[[Code-Tensorflow]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 
-* 2017-TNLS - Improving Crowdsourced Label Quality Using Noise Correction. [[Paper]](https://ieeexplore.ieee.org/document/7885126)
+* 2017-TNLS - Improving Crowdsourced Label Quality Using Noise Correction.cited:50 [[Paper]](https://ieeexplore.ieee.org/document/7885126)
 
-* 2017-ML - Learning to Learn from Weak Supervision by Full Supervision. [[Paper]](https://arxiv.org/abs/1711.11383)[[Code]](https://github.com/krayush07/learn-by-weak-supervision)
+* 2017-ML - Learning to Learn from Weak Supervision by Full Supervision.cited:44 [[Paper]](https://arxiv.org/abs/1711.11383)[[Code]](https://github.com/krayush07/learn-by-weak-supervision)
 
-* 2017-ML - Avoiding your teacher's mistakes: Training neural networks with controlled weak supervision. [[Paper]](https://arxiv.org/abs/1711.00313)
+* 2017-ML - Avoiding your teacher's mistakes: Training neural networks with controlled weak supervision.cited:35 [[Paper]](https://arxiv.org/abs/1711.00313)
 
-* 2017-Arxiv - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
+* 2017-Arxiv - Deep Learning is Robust to Massive Label Noise. cited:327[[Paper]](https://arxiv.org/abs/1705.10694)
 
-* 2017-Arxiv - Fidelity-weighted learning. [[Paper]](https://arxiv.org/pdf/1711.02799)
+* 2017-Arxiv - Fidelity-weighted learning.cited:50 [[Paper]](https://arxiv.org/pdf/1711.02799)
 
-* 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7961730)
+* 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels.cited:19 [[Paper]](https://ieeexplore.ieee.org/document/7961730)
 
 * 2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [[Paper]](https://arxiv.org/abs/1705.01936)
 
@@ -455,21 +455,21 @@
 
 + 2021-CVPR - Joint Negative and Positive Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.06574)
 
-+ 2021-CVPR - DualGraph: A Graph-Based Method for Reasoning About Label Noise. [[Paper]]()
++ 2021-CVPR - DualGraph: A Graph-Based Method for Reasoning About Label Noise. cited:2[[Paper]]()
 
-+ 2021-CVPR - AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation. [[Paper]](https://arxiv.org/abs/2103.05863)
++ 2021-CVPR - AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation.cited:none [[Paper]](https://arxiv.org/abs/2103.05863)
 
-* 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
+* 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise.cited:4 [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
 
-* 2021-CVPRW - Boosting Co-teaching with Compression Regularization for Label Noise. [[Paper]](https://arxiv.org/abs/2104.13766)[[Code]](https://github.com/yingyichen-cyy/Nested-Co-teaching)
+* 2021-CVPRW - Boosting Co-teaching with Compression Regularization for Label Noise.cited:3 [[Paper]](https://arxiv.org/abs/2104.13766)[[Code]](https://github.com/yingyichen-cyy/Nested-Co-teaching)
 
-* 2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
+* 2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. cited:19[[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
 
-* 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [[Paper]](https://openreview.net/forum?id=Eql5b1_hTE4)
+* 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels.cited:30 [[Paper]](https://openreview.net/forum?id=Eql5b1_hTE4)
 
-* 2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y)
+* 2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes.cited:20 [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y)
 
-* 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
+* 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. cited:4[[Paper]](https://arxiv.org/abs/2103.00528)
 
 ## Survey
 
